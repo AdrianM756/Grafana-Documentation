@@ -262,6 +262,19 @@ To access it, we can use the default credentials ```admin:admin```. It will then
 ![image](https://github.com/user-attachments/assets/5423aabc-7c56-4cce-9dfa-5539357ad1d3)
 
 
+***References:***
+
+* https://grafana.com/
+
+* https://prometheus.io/
+
+* https://prometheus.io/docs/guides/node-exporter/#monitoring-linux-host-metrics-with-the-node-exporter
+
+* https://medium.com/@cryptocapchik/grafana-prometheus-node-exporter-setup-guide-5371bef49ce0
+
+* https://github.com/prometheus-community/windows_exporter
+
+* https://wiki.debian.org/TarBall
 
 
 
