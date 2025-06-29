@@ -1,3 +1,6 @@
+![image](https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png)
+<br>
+<br>
 ## What is Grafana?
 
 [Grafana]([https://github.com/grafana/grafana](https://grafana.com/)) is an open and composable observability and data visualization platform. It allows you to query, visualize, alert on and understand your metrics no matter where they are stored.
